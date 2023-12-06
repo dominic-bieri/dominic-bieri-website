@@ -1,9 +1,12 @@
 # dominic-bieri Website
+
 ## About
+
 This is a personal Website about me.
 Can be found on: [dominic-bieri.ch](https://dominic-bieri.ch)
 
 ## Technologies
+
 - React
 - NextJs
 - Tailwind CSS
@@ -13,9 +16,10 @@ Can be found on: [dominic-bieri.ch](https://dominic-bieri.ch)
 
 First, install the dependency's:
 
-``` bash
+```bash
 npm install
 ```
+
 Run the Website locally:
 
 ```bash
