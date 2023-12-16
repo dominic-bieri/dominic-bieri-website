@@ -13,9 +13,9 @@ export default function DescriptionComponent() {
         />
       </div>
       <h2 className="text-4xl font-bold">Dominic Bieri</h2>
-      <h3 className="text-3xl font-semibold">Junior Software Engineer</h3>
+      <h3 className="text-3xl font-semibold">Software Engineer</h3>
       <p className="mt-6 w-auto text-lg">
-        As a fullstack developer, I create exceptional, user-friendly web experiences.
+        As a Full Stack Developer I create seamless solutions for web and backend.
       </p>
     </div>
   );
