@@ -1,5 +1,5 @@
 import DescriptionComponent from "@/components/DescriptionComponent";
-import TimelineComponent from "@/components/TimelineComonent";
+import TimelineComponent from "@/components/Timeline/TimelineComonent";
 
 export default function Home() {
   return (
