@@ -3,7 +3,7 @@
 ## About
 
 This is a personal Website about me.
-Can be found on: [dominic-bieri.ch](https://dominic-bieri.ch)
+Can be found on: [dominic-bieri.ch](https://dominic-bieri.ch) / [dom.bi](https://dom.bi)
 
 ## Technologies
 
